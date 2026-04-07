@@ -1,4 +1,4 @@
-# churn_prediction
+
 # Customer Churn Prediction
 
 ## 📌 Project Overview
